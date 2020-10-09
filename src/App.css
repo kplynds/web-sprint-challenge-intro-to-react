@@ -1,8 +1,9 @@
 .App {
   text-align: center;
+  background-image: "https://cdn.mos.cms.futurecdn.net/rXQiLcfc89vp3EbYQ58ERH-1200-80.jpeg";
 }
 .Header {
-  color: #443e3e;
-  text-shadow: 1px 1px 5px #fff;
+  color: #fff;
+  text-shadow: 1px 1px 5px #443e3e;
 }
 /* write your parent styles in here for your App.js */
